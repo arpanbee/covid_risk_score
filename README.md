@@ -8,6 +8,8 @@ Dockerized version of shiny app.  Tested on AmazonLinux2.
 
 - grab code
 
+- create API key (/app/doc/HUD_API_KEY.txt)
+
 - build image (from within root directory)
   - "docker build -t covid-risk-score ."
   
