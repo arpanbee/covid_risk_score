@@ -13,3 +13,5 @@ Dockerized version of shiny app.  Tested on AmazonLinux2.
   
 - run container 
   - "docker run -d -p 80:3838 covid-risk-score"
+
+- shiny app should be running on host port 80
